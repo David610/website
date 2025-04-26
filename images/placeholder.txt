@@ -1,0 +1,1 @@
+This is just to create the folders for the placeholder images. In a real project, you would add actual image files here.
