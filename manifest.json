@@ -1,0 +1,21 @@
+{
+  "name": "Arina Mkhitaryan - Portfolio",
+  "short_name": "Arina M.",
+  "description": "Arina Mkhitaryan's Portfolio - Relationship Management & Partner Operations professional",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F5F2",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
